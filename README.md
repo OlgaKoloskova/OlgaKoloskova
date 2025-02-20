@@ -17,7 +17,10 @@
 Чек лист проверок на Регистрацию и Авторизацию
 [https://docs.google.com/spreadsheets/d/17_z7tF97vXNLykdiUPe0vWPSgSDmUB_RUCBVgkofuZc/edit?usp=sharing
 )
-  
+
+API скрипты
+[https://drive.google.com/file/d/136A6lcpKy51_ZchD4-wImZX5mee4thlH/view?usp=sharing
+)
 
 
   
