@@ -13,6 +13,10 @@
 Техники тест – дизайна
 [https://docs.google.com/spreadsheets/d/1lGf5rGslEWlZUXiDlIIo8meP41IlROcZZWYzjyl2RiA/edit?usp=sharing
 )  
+
+Чек лист проверок на Регистрацию и Авторизацию
+[https://docs.google.com/spreadsheets/d/17_z7tF97vXNLykdiUPe0vWPSgSDmUB_RUCBVgkofuZc/edit?usp=sharing
+)
   
 
 
