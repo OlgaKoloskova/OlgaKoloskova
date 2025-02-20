@@ -2,7 +2,7 @@
   
 
 ### <div align="center">Привет, меня зовут Ольга! 
-Я начинающий Инженер по тестированию ПО. Примеры моих работ.</div>  
+Примеры моих работ.</div>  
   
 
 Тестирование API
@@ -12,10 +12,6 @@
 SQL запросы
 [https://docs.google.com/document/d/1Wv5cDQuEu16WE7bsf1o4cCCX-T3snEY41_KBoFE1Gko/edit?usp=sharing)  
   
-
-Тест кейсы
-[https://docs.google.com/document/d/1JBTBqFFK_C7wh51zn7xeuGqKPNQ9y3D8_4G1i-4tqBs/edit?usp=sharing
-)  
   
 
 Тестирование лифта
@@ -28,14 +24,7 @@ SQL запросы
 )  
   
 
-Use case
-[https://docs.google.com/spreadsheets/d/1eqedGcxdGux96ULDkTpJ9G3d8O6tZq4QRK3ZM-LaCfk/edit?usp=sharing
-)  
-  
 
-Презентация: Работа над проектом Gectaro 
-[https://docs.google.com/presentation/d/1Ry41wcNdd4leEwyUKqz4-QrVZv2MugLt2umnUZNlmTg/edit?usp=sharing
-)  
   
 
 <br/>  
