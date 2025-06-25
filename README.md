@@ -19,7 +19,7 @@
 )
 
 API скрипты
-[https://drive.google.com/file/d/136A6lcpKy51_ZchD4-wImZX5mee4thlH/view?usp=sharing
+[https://drive.google.com/file/d/16qp2PHb8JqLno81yrVcStTIrHUxGuSOG/view?usp=sharing
 )
 
 
